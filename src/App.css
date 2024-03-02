@@ -17,7 +17,7 @@ body {
 }
 
 .player {
-  color: black;
+  color: rgb(71, 3, 3);   /*Changed the color*/
   background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
   border: 1px solid #ccc;
   padding: 10px;
